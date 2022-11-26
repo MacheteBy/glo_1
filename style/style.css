@@ -1,0 +1,31 @@
+body{
+    font-family: Tahoma;
+}
+
+.box{
+    height: 50px;
+    background-color:black
+}
+
+.container_title{
+    font-size: 24px;
+    font-weight: 700;
+    color: #333333;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 84px;
+}
+
+.icon_img{
+    height: 71px;
+    width: 71px;
+}
+
+.col p{
+    width: 122px;
+    text-align: center;
+}
+
+.row img{
+    justify-content: center;
+}
